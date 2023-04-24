@@ -1,2 +1,4 @@
 # discord-token-nitro-checker
-Simple Discord Token Nitro Checker
+simple discord token nitro checker using requests
+
+
